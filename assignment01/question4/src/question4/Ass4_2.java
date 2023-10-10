@@ -1,6 +1,6 @@
 package question4;
 
-public class ass4_2 {
+public class Ass4_2 {
 
 	public static void main(String[] args) 
 	{ 
